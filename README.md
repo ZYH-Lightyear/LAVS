@@ -1,7 +1,7 @@
 # 🎬 LVAS-Agent  
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-[![Project Page](https://img.shields.io/badge/Project%20Page-Online-blue)]((https://lvas-agent.github.io/)
+[![Project Page](https://img.shields.io/badge/Project%20Page-Online-blue)](https://lvas-agent.github.io/)
 [![ArXiv](https://img.shields.io/badge/ArXiv-2503.10719-brightgreen)](https://arxiv.org/abs/2503.10719)
 
 ---
