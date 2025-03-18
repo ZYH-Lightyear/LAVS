@@ -1,9 +1,36 @@
 # 🎬 LVAS-Agent  
 
-[![Maintained](https://img.shields.io/badge/Maintained-YES-green.svg)](https://github.com/lvas-agent)  
-[![License](https://img.shields.io/github/license/lvas-agent/lvas-agent)](LICENSE)  
-[![Release](https://img.shields.io/github/v/release/lvas-agent/lvas-agent)](https://github.com/lvas-agent/lvas-agent/releases)  
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
+[![Project Page](https://img.shields.io/badge/Project%20Page-Online-blue)]((https://lvas-agent.github.io/)
+[![ArXiv](https://img.shields.io/badge/ArXiv-2503.10719-brightgreen)](https://arxiv.org/abs/2503.10719)
 
-🚀 **A Multimodal Agent Framework for Long Video Audio Synthesis**  
+---
 
-LVAS-Agent is an intelligent multi-agent system designed for **long video sound effect synthesis**. It integrates **video understanding, audio-to-text processing, and language models** to generate high-quality audio for multi-scene videos.  
+## 🏗️ LVAS-Agent Framework
+![Framework](./assets/framework.png)  
+
+---
+
+## 🚀 Features  
+- [] Release online gradio demo.
+- [] Release local gradio demo.
+- [] Release benchmark data.   
+
+---
+
+## 🔧 Installation & Usage  
+Comming soon ...
+
+---
+
+## 📄 Citation  
+```bibtex
+@misc{zhang2025longvideoaudiosynthesismultiagent,
+      title={Long-Video Audio Synthesis with Multi-Agent Collaboration}, 
+      author={Yehang Zhang and Xinli Xu and Xiaojie Xu and Li Liu and Yingcong Chen},
+      year={2025},
+      eprint={2503.10719},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.10719}, 
+}
